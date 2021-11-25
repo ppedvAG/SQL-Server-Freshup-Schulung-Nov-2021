@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 18.00
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "SQL Server Freshup", "SQL Server Freshup\SQL Server Freshup.ssmssqlproj", "{BA89D1E2-7720-48B9-BCE3-2DA0C629C69B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA89D1E2-7720-48B9-BCE3-2DA0C629C69B}.Default|Default.ActiveCfg = Default
+		{BA70CBD0-BB4E-4973-981E-3F0DDEE350FB}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E1BA7E5B-F25D-4232-9B24-02B7F9CB100D}
+	EndGlobalSection
+EndGlobal
