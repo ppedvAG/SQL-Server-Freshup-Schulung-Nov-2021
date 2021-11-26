@@ -41,7 +41,7 @@ Datenklassifierung
 Sicherheitsrisikobewertung
 
 
-TemporalTables -- Versionierung Historieurung
+TemporalTables -- Versionierung Historisierung
 Graph Tabellen
 
 Audit --
