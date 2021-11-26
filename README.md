@@ -31,14 +31,18 @@
 Contained Database
 
 
-TemporalTables -- Versionierung Historieurung
-Graph Tabellen
 
 Neuerungen..in 
 
 Zeilenversionierung
-
+DTA
 SSMS Neuerungen
+Datenklassifierung
+Sicherheitsrisikobewertung
+
+
+TemporalTables -- Versionierung Historieurung
+Graph Tabellen
 
 Audit --
 
@@ -47,7 +51,6 @@ Policies-->
 Datensammler
 
 
-DTA
 
 
 
