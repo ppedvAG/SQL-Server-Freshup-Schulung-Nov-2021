@@ -5,7 +5,7 @@
 * VM Tipps
 
 # DB Settings
-* Scoped DAatabase Configuration
+* Scoped Database Configuration
 * MAXDOP
 * ADR
 
@@ -21,6 +21,38 @@
 
 # Indizes 
 * Columnstore
+
+# in Memory
+
+# Aufzeichnungen  Monitoring
+* QueryStore
+
+# 
+Contained Database
+
+
+TemporalTables -- Versionierung Historieurung
+Graph Tabellen
+
+Neuerungen..in 
+
+Zeilenversionierung
+
+SSMS Neuerungen
+
+Audit --
+
+Policies-->
+
+Datensammler
+
+
+DTA
+
+
+
+
+
 
 
 
